@@ -1,4 +1,2 @@
 #!/bin/bash
 gcc -S $CFILE
-The output file should be named the same as the C file
-gcc -S $CFILE
